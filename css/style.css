@@ -1,0 +1,51 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-weight: 400;
+}
+
+h1,h2,h3 {
+    font-family: 'EB Garamond', serif;
+    font-weight: 800;
+}
+
+
+main {
+    background-image: url(../img/pexels-luis-zheji-1662277.jpg);
+    min-height: 80vh;
+    color: #fafafa;
+    background-size: cover;
+}
+
+.hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.hero h1 {
+    font-size: 10rem;
+}
+
+footer {
+    text-align: center;
+    padding-top: 48px;
+}
+
+.book {
+    margin: 16px;
+}
+
+.tienda h1, .tienda>p {
+    text-align: center;
+}
+
+.tienda {
+    padding-top: 2%;
+}

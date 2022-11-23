@@ -1,0 +1,26 @@
+[
+    {
+        "precio": 7900,
+        "id": 1,
+        "titulo": "El Ritmo de la Guerra",
+        "thumbnailUrl": "https://i.ibb.co/MD3GNPm/el-ritmo-de-la-guerra.webp"
+    },
+    {
+        "precio": 3200,
+        "id": 2,
+        "titulo": "El Ultimo Graduado",
+        "thumbnailUrl": "https://i.ibb.co/1sBFKMn/elultimograduado.jpg"
+    },
+    {
+        "precio": 4900,
+        "id": 3,
+        "titulo": "Cuento de Hadas",
+        "thumbnailUrl": "https://i.ibb.co/sJ4cw2g/cuentodehadas.jpg"
+    },
+    {
+        "precio": 4500,
+        "id": 4,
+        "titulo": "Para Qué",
+        "thumbnailUrl": "https://i.ibb.co/SVpVJ3Y/paraque.jpg"
+    }
+]
