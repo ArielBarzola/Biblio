@@ -16,13 +16,14 @@ h1,h2,h3 {
 
 
 main {
-    background-image: url(../img/pexels-luis-zheji-1662277.jpg);
-    min-height: 80vh;
     color: #fafafa;
-    background-size: cover;
+   
 }
 
 .hero {
+    background-image: url(../img/pexels-luis-zheji-1662277.jpg);
+    min-height: 80vh;
+    background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -48,4 +49,15 @@ footer {
 
 .tienda {
     padding-top: 2%;
+}
+
+.btn-pluss {
+    background-color: #1a1a1a;
+    color: #fafafa;
+}
+
+.btn-minuss {
+    background-color: #fafafa;
+    color: #1a1a1a;
+    border: 1px solid #1a1a1a;
 }
